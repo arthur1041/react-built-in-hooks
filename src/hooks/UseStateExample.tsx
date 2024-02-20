@@ -63,8 +63,7 @@ export const UseStateExample: React.FC = () => {
           setCount((prev) => {
             return prev + 1;
           })
-        }
-      >
+        }>
         Click to increase
       </button>
     </div>
